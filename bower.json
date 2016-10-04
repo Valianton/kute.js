@@ -1,6 +1,6 @@
 {
-  "name": "KUTE.js",
-  "version": "1.5.9",
+  "name": "kute.js",
+  "version": "1.5.9.0",
   "homepage": "http://thednp.github.io/kute.js",
   "authors": [
     "thednp"
@@ -28,8 +28,5 @@
     "bower_components",
     "test",
     "tests"
-  ],
-  "dependencies": {
-    "uglify-js": "^1.3.5"
-  }
+  ]
 }
